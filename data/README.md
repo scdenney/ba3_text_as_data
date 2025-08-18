@@ -1,0 +1,1 @@
+Place `nk_flattened_corpus.csv` and `nikh_corpus.csv` here. Keep raw/sensitive data out of the repo.
