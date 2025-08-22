@@ -138,4 +138,4 @@ If your computer folder is clean, your online repo will be clean too.
 
 ---
 
-👉 That’s it! Treat this repo like your **digital notebook**. Each week you’ll add your assignment in the right place. By the end of the course, you’ll have a complete portfolio of your Digital Humanities work.
+That’s it! Treat this repo like your **digital notebook**. Each week you’ll add your assignment in the right place. By the end of the course, you’ll have a complete portfolio of your Digital Humanities work. Feel free to expand and build out in your repo. Just keep the core folders as needed, but otherwise do what you want.
