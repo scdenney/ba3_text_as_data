@@ -57,7 +57,7 @@ This organization mirrors best practices for **research data management** and is
 
 ## Weekly Outline
 
-### Week 1 (Oct 10): Introduction to DH, GitHub & Data Management
+### Week 1 (Oct. 10): Introduction to DH, GitHub & Data Management
 - **Lecture:** What is DH? Why text-as-data matters for Korean Studies. FAIR data principles.  
 - **Hands-On:** GitHub setup, orientation to Orange workflows and widgets.  
 - **Tutorials:** *Welcome to Orange, Data Workflows, Widgets & Channels*.  
@@ -65,7 +65,7 @@ This organization mirrors best practices for **research data management** and is
 
 ---
 
-### Week 2 (Oct 17): Text Preprocessing with Aron v/d Pol
+### Week 2 (Oct. 17): Text Preprocessing with Aron v/d Pol
 - **Lecture:** Tokenization, stopwords, normalization. Korean-specific preprocessing challenges.  
 - **Hands-On:** Import corpora, apply preprocessing, compare raw vs. cleaned.  
 - **Tutorials:** *Text Preprocessing, Importing Text Documents*.  
@@ -73,7 +73,7 @@ This organization mirrors best practices for **research data management** and is
 
 ---
 
-### Week 3 (Oct 24): Descriptive Patterns
+### Week 3 (Oct. 24): Descriptive Patterns
 - **Lecture:** Frequency, keywords, word clouds. From descriptive to interpretive claims.  
 - **Hands-On:** Group analysis of corpora, frequency/word cloud outputs, keyword contrasts, clustering/projection.  
 - **Tutorials:** *Text Clustering, Multivariate Projection (Freeviz)*.  
@@ -81,7 +81,7 @@ This organization mirrors best practices for **research data management** and is
 
 ---
 
-### Week 4 (Nov 7): Classification & Prediction
+### Week 4 (Nov. 7): Classification & Prediction
 - **Lecture:** Supervised methods, labels, evaluation, and applications in thesis research.  
 - **Hands-On:** Apply sentiment classification, evaluate accuracy, discuss limits.  
 - **Tutorials:** *Text Classification, Making Predictions, Model Evaluation*.  
@@ -89,7 +89,7 @@ This organization mirrors best practices for **research data management** and is
 
 ---
 
-### Week 5 (Nov 14): Clustering & Similarity
+### Week 5 (Nov. 14): Clustering & Similarity
 - **Lecture:** Unsupervised methods; clustering documents. Strengths and pitfalls.  
 - **Hands-On:** Hierarchical and k-means clustering, silhouette evaluation, interpret clusters.  
 - **Tutorials:** *Hierarchical Clustering, k-Means, Silhouette*.  
@@ -97,7 +97,7 @@ This organization mirrors best practices for **research data management** and is
 
 ---
 
-### Week 6 (Nov 21): Topic Modeling & Wrap-Up
+### Week 6 (Nov. 21): Topic Modeling & Wrap-Up
 - **Lecture:** Introduction to topic modeling (LDA). Comparing clusters vs. topics. Designing a DH project.  
 - **Hands-On:** Run topic modeling on a corpus, interpret top words per topic, compare with clustering.  
 - **Tutorials:** *Topic Modeling widget demo*.  
@@ -105,9 +105,10 @@ This organization mirrors best practices for **research data management** and is
 
 ---
 
-## Final Project (after Week 6)
-- A **mini text-as-data analysis** (≈3–4 pages) applying at least two methods.  
-- Include: research question, corpus, workflow (screenshots), findings, reflection on thesis relevance.  
+## Final Project (after Week 6: deadline TBD)
+- A **mini text-as-data analysis** project (≈3–4 pages). 
+- Include: research question, corpus, workflow (screenshots), findings, and reflection on thesis relevance.
+- More information to be provided.
 
 ---
 
