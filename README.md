@@ -44,6 +44,7 @@ See the [course syllabus](syllabus/syllabus.md) for a more detailed explanation 
 ba3_text_as_data/
 ├── syllabus/          # syllabus
 │   └── syllabus.md
+│   └── repo_how-to.md # how to set up your GitHub repo
 ├── assignments/       # weekly assignment instructions
 ├── data/              # provided corpora
 ├── tutorials/         # Orange Data Mining links and resources
