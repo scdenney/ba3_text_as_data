@@ -37,7 +37,7 @@ By the end of the DH module, students will be able to:
 
 <h2>📂 Repository Structure</h2>
 <pre>
-DH-Korean-Studies/
+ba3_text_as_data/
 ├── syllabus/          # syllabus file
 │   └── syllabus.md
 ├── assignments/       # weekly deliverables
