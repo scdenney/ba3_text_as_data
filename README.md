@@ -60,4 +60,4 @@ ba3_text_as_data/
 ---
 
 ## 📜 License & Use
-This repository is for educational use in the BA3 Korean Studies program at Leiden University.
+This repository is for educational use in the KoreaStudies program at Leiden University.
