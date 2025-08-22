@@ -1,6 +1,6 @@
 # Topical Reading: Digital Humanities  
 **Course:** BA3 Korean Studies, Leiden University  
-**Instructor:** Dr. Steven Denney 
+**Instructor:** Dr. Steven Denney  
 **Time & Place:** Fridays, 11:15–13:00, Lipsius 1.29  
 **Duration:** 6 seminars x 2 hours per seminar, starting October and ending November 21
 
