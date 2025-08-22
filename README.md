@@ -35,8 +35,8 @@ By the end of the DH module, students will be able to:
 
 ---
 
-## 📂 Repository Structure
-
+<h2>📂 Repository Structure</h2>
+<pre>
 DH-Korean-Studies/
 ├── syllabus/          # syllabus file
 │   └── syllabus.md
@@ -44,6 +44,7 @@ DH-Korean-Studies/
 ├── corpora/           # provided corpora
 ├── tutorials/         # Orange Data Mining links and resources
 └── README.md          # this file
+</pre>
 
 ---
 
