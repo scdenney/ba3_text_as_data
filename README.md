@@ -1,22 +1,60 @@
-# Text as Data (Korean Studies) – Orange + GitHub
+# Topical Reading: Digital Humanities  
+**Course:** BA3 Korean Studies, Leiden University  
+**Instructor:** [Your Name]  
+**Time & Place:** Saturdays, 11:15–13:00, Lipsius 1.29  
+**Dates:** October 10, 17, 24; November 7, 14, 21  
 
-This repository powers a six-week **Text-as-Data** segment using **Orange Data Mining** with two corpora:
-1) **`nk_flattened_corpus.csv`** (North Korean economic journal articles – *Kyungje Yongu*).
-2) **`nikh_corpus.csv`** (exported from `nikh_corpus.parquet`, South Korean history textbooks).
+---
 
-**Students do not need to code.** All work happens via **Orange workflows (`.ows`)** and **GitHub** for transparency.
+## 🎯 Course Description
+This course introduces BA3 Korean Studies students to **Digital Humanities (DH)** methods, focusing on text-as-data approaches. Using **Orange Data Mining** and pre-prepared Korean corpora, students will learn how to clean, analyze, and interpret textual data.  
+The DH strand complements the topical reading seminars by equipping students with methodological skills that may support their **undergraduate thesis research**.
 
-## How to use
-- Read `docs/onboarding_github.md` to set up GitHub and your local copy.
-- Install Orange (see `docs/orange_setup.md`).
-- Open the **Week 1** workflow in `orange_workflows/01_intro_explore.ows.plan.md` (a plan with screenshots and steps).
-  - The actual `.ows` files will be added by the instructor in this folder.
-- Complete weekly assignments in `assignments/` and push your work via Pull Request (PR).
+---
 
-## Datasets
-- `data/nk_flattened_corpus.csv` – provided by instructor (schema in `docs/data_schemas.md`).
-- `data/nikh_corpus.csv` – exported by instructor from the source parquet (script in `instructor_scripts/prepare_data.py`).
+## 📘 Learning Objectives
+By the end of the DH module, students will be able to:
+- Understand the role of **Digital Humanities** in Korean Studies.  
+- Apply **text preprocessing** techniques to prepare data.  
+- Conduct **descriptive text analysis** (frequency, keywords, word clouds).  
+- Use **classification**, **clustering**, and **topic modeling** for analysis.  
+- Practice **data management and transparency** with GitHub.  
+- Reflect on how computational methods may strengthen thesis projects.  
 
-## License
-- Course materials: CC-BY 4.0 (see `LICENSE`).
-- Data: see `docs/data_license.md` for dataset-specific notes.
+---
+
+## 📅 Weekly Schedule (DH Strand)
+- **[Week 1 (Oct 10): Introduction to DH, GitHub & Data Management](assignments/week01-deliverable.md)**  
+- **[Week 2 (Oct 17): Text Preprocessing](assignments/week02-deliverable.md)**  
+- **[Week 3 (Oct 24): Descriptive Patterns](assignments/week03-deliverable.md)**  
+- **[Week 4 (Nov 7): Classification & Prediction](assignments/week04-deliverable.md)**  
+- **[Week 5 (Nov 14): Clustering & Similarity](assignments/week05-deliverable.md)**  
+- **[Week 6 (Nov 21): Topic Modeling & Wrap-Up](assignments/week06-deliverable.md)**  
+- **[Final Project: Mini Text-as-Data Analysis](assignments/final-project.md)**  
+
+---
+
+## 📂 Repository Structure
+
+DH-Korean-Studies/
+│
+├── syllabus/          # syllabus file
+│   └── syllabus.md
+├── assignments/       # weekly deliverables
+├── corpora/           # provided corpora
+├── tutorials/         # Orange Data Mining links and resources
+└── README.md          # this file
+
+
+---
+
+## 💻 Tools
+- **[Orange Data Mining](https://orangedatamining.com/)** (main application)  
+- **GitHub** (data management & transparency)  
+- Provided **Korean corpora** (in `/corpora`)  
+
+---
+
+## 📜 License & Use
+This repository is for educational use in the BA3 Korean Studies program at Leiden University.  
+Students are encouraged to **fork** and **adapt** the repo for their own projects.  
