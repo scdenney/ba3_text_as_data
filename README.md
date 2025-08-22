@@ -2,7 +2,7 @@
 **Course:** BA3 Korean Studies, Leiden University  
 **Instructor:** Dr. Steven Denney  
 **Time & Place:** Fridays, 11:15–13:00, Lipsius 1.29  
-**Duration:** 6 seminars x 2 hours per seminar, starting October and ending November 21
+**Duration:** 6 seminars starting October 10 and ending November 21
 
 ---
 
@@ -25,12 +25,12 @@ By the end of the DH module, students will be able to:
 ---
 
 ## 📅 Weekly Schedule (DH Strand)
-- **[Week 1 (Oct 10): Introduction to DH, GitHub & Data Management](assignments/week01-deliverable.md)**  
-- **[Week 2 (Oct 17): Text Preprocessing](assignments/week02-deliverable.md)**  
-- **[Week 3 (Oct 24): Descriptive Patterns](assignments/week03-deliverable.md)**  
-- **[Week 4 (Nov 7): Classification & Prediction](assignments/week04-deliverable.md)**  
-- **[Week 5 (Nov 14): Clustering & Similarity](assignments/week05-deliverable.md)**  
-- **[Week 6 (Nov 21): Topic Modeling & Wrap-Up](assignments/week06-deliverable.md)**  
+- **[Week 1 (Oct. 10): Introduction to DH, GitHub & Data Management](assignments/week01-deliverable.md)**  
+- **[Week 2 (Oct. 17): Text Preprocessing](assignments/week02-deliverable.md)**  
+- **[Week 3 (Oct. 24): Descriptive Patterns](assignments/week03-deliverable.md)**  
+- **[Week 4 (Nov. 7): Classification & Prediction](assignments/week04-deliverable.md)**  
+- **[Week 5 (Nov. 14): Clustering & Similarity](assignments/week05-deliverable.md)**  
+- **[Week 6 (Nov. 21): Topic Modeling & Wrap-Up](assignments/week06-deliverable.md)**  
 - **[Final Project: Mini Text-as-Data Analysis](assignments/final-project.md)**  
 
 ---
