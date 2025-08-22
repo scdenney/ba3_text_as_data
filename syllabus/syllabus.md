@@ -34,9 +34,10 @@ You are required to maintain a **private GitHub repository** for this course:
 3. Keep the repo private, unless you explicitly choose to share it.  
 4. Organize the repo with the following structure:
 
-```text
+<h2>📂 Student Repository Structure</h2>
+<pre>
 DH-TopicalReading-<Surname>/
-├── assignments/
+  ├── assignments/    # Where you commit your assignments
 │   ├── week01/
 │   │   ├── week01-deliverable.md
 │   │   └── screenshots/
@@ -44,9 +45,8 @@ DH-TopicalReading-<Surname>/
 │   │   └── ...
 │   ├── week06/
 │   └── final-project/
-└── README.md
-```
-You can use the README to introduce yourself and what your repo will do for you.
+└── README.md          # Use the README to introduce yourself and what your repo will do for you.
+</pre>
 
 5. Each week’s deliverable (markdown file + screenshots) must be committed to the correct subfolder.  
 6. At the start of the course, submit the **URL of your repo** to the instructor.  
