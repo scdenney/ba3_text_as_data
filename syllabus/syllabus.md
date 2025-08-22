@@ -114,9 +114,8 @@ This organization mirrors best practices for **research data management** and is
 ## Assessment
 - Weekly Deliverables (6 × 5% = 30%)  
 - Final Project (70%)
-- Full attendance is expected. 
 
 ---
 
 ## Attendance
-Strict attendance is required. Missing more than 3 sessions may result in failing the course. Absences must be reported in advance; exceptions can only be granted by the Board of Examiners.  
+Full attendance is expected. Missing any sessions will put you behind. If you cannot attend all sessions, speak with the instructor.
