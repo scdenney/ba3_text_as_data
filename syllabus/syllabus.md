@@ -34,7 +34,7 @@ You are required to maintain a **private GitHub repository** for this course:
 3. Keep the repo private, unless you explicitly choose to share it.  
 4. Organize the repo with the following structure:
 
-<h2>📂 Student Repository Structure</h2>
+📂 Student Repository Structure
 <pre>
 DH-TopicalReading-<Surname>/
   ├── assignments/    # Where you commit your assignments
