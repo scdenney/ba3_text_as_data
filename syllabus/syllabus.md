@@ -1,15 +1,58 @@
-# Syllabus: Topical Reading – Digital Humanities  
-**Course:** BA3 Korean Studies, Leiden University  
-**Instructor:** [Your Name]  
-**Time & Place:** Saturdays, 11:15–13:00, Lipsius 1.29  
-**Dates:** October 10, 17, 24; November 7, 14, 21  
+# Topical Reading: Digital Humanities  
+Course: BA3 Korean Studies, Leiden University  
+Instructor: Dr. Steven Denney  
+Time & Place: Fridays, 11:15–13:00, Lipsius 1.29  
+Duration: 6 seminars starting October 10 and ending November 21
 
 ---
 
-## Course Overview
-This six-week strand introduces students to **Digital Humanities (DH)** methods for analyzing textual data, with a focus on Korean-language corpora.  
-Students will learn how to prepare, analyze, and interpret text using **Orange Data Mining**.  
-The aim is not technical mastery, but to understand how computational methods can support and enhance **thesis research in Korean Studies**.
+## Expanded Course Description
+This is the DH strand of the BA3 course **Contemporary Korea and Digital Humanities**. This course is meant to introduce students to digital humanities (DH) methods, focusing on text-as-data approaches. Using Orange Data Mining and pre-prepared Korean corpora, students will learn how to clean, analyze, and interpret textual data.  
+
+The DH strand complements the topical reading seminars by equipping students with methodological skills to support their undergraduate research and to introduce them to the DH side of research in the Humanities and Social Sciences. There are no programming requirements whatsoever in this course, although students will have the opportunity to explore ways to acquire such skills.
+
+Students will learn how to prepare, analyze, and interpret text using **Orange Data Mining**. The aim is not technical mastery, but to understand how computational methods can support thesis research in the KoreaStudies (BA) program at Leiden University.
+
+---
+
+## Tutorials  
+Each week lists required **Orange Data Mining Tutorials**.  
+- These tutorials are **required viewing before class**.  
+- They are short (≈5–10 minutes each) and introduce the widgets you will use hands-on.  
+- Watching them in advance will free up class time for applying methods to Korean corpora.
+
+👉 Tutorials (to watch before class) are available here: [Orange Data Mining Tutorials (YouTube Playlist)](https://www.youtube.com/playlist?list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy)
+
+---
+
+## GitHub Repository Requirement  
+
+You are required to maintain a **private GitHub repository** for this course:  
+
+1. Create a new private repo named: `DH-TopicalReading-<Surname>`.  
+2. Add the instructor (**username: scdenney**) as a collaborator.  
+3. Keep the repo private, unless you explicitly choose to share it.  
+4. Organize the repo with the following structure:
+
+```text
+DH-TopicalReading-<Surname>/
+├── assignments/
+│   ├── week01/
+│   │   ├── week01-deliverable.md
+│   │   └── screenshots/
+│   ├── week02/
+│   │   └── ...
+│   ├── week06/
+│   └── final-project/
+├── syllabus/
+│   └── syllabus.md
+└── README.md
+```
+
+5. Each week’s deliverable (markdown file + screenshots) must be committed to the correct subfolder.  
+6. At the start of the course, submit the **URL of your repo** to the instructor.  
+
+This organization mirrors best practices for **research data management** and is part of the course’s learning objectives.  
 
 ---
 
@@ -23,7 +66,7 @@ The aim is not technical mastery, but to understand how computational methods ca
 
 ---
 
-### Week 2 (Oct 17): Text Preprocessing
+### Week 2 (Oct 17): Text Preprocessing with Aron v/d Pol
 - **Lecture:** Tokenization, stopwords, normalization. Korean-specific preprocessing challenges.  
 - **Hands-On:** Import corpora, apply preprocessing, compare raw vs. cleaned.  
 - **Tutorials:** *Text Preprocessing, Importing Text Documents*.  
@@ -70,8 +113,9 @@ The aim is not technical mastery, but to understand how computational methods ca
 ---
 
 ## Assessment
-- Weekly Deliverables (6 × 10% = 60%)  
-- Final Project (40%)  
+- Weekly Deliverables (6 × 5% = 30%)  
+- Final Project (70%)
+- Full attendance is expected. 
 
 ---
 
