@@ -38,10 +38,10 @@ By the end of the DH module, students will be able to:
 <h2>📂 Repository Structure</h2>
 <pre>
 ba3_text_as_data/
-├── syllabus/          # syllabus file
+├── syllabus/          # syllabus
 │   └── syllabus.md
-├── assignments/       # weekly deliverables
-├── corpora/           # provided corpora
+├── assignments/       # weekly assignment instructions
+├── data/              # provided corpora
 ├── tutorials/         # Orange Data Mining links and resources
 └── README.md          # this file
 </pre>
