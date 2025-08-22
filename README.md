@@ -51,7 +51,7 @@ ba3_text_as_data/
 ## 💻 Tools
 - **[Orange Data Mining](https://orangedatamining.com/)** (main application)  
 - **GitHub** (data management & transparency)  
-- Provided **Korean corpora** (in `/corpora`)  
+- Provided **Korean corpora** (in `/data`)  
 
 ---
 
