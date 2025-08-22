@@ -1,8 +1,8 @@
 # Topical Reading: Digital Humanities  
 **Course:** BA3 Korean Studies, Leiden University  
-**Instructor:** [Your Name]  
-**Time & Place:** Saturdays, 11:15–13:00, Lipsius 1.29  
-**Dates:** October 10, 17, 24; November 7, 14, 21  
+**Instructor:** Dr. Steven Denney 
+**Time & Place:** Fridays, 11:15–13:00, Lipsius 1.29  
+**Duration:** 6 seminars x 2 hours per seminar 
 
 ---
 
