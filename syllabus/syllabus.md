@@ -26,7 +26,7 @@ Each week lists required **Orange Data Mining Tutorials**.
 ---
 
 ## GitHub Repository Requirement  
-See [this "how-to" guide](syllabus/repo_how-to.md) (located in the syllabus folder) on how to get started with GitHub and repo management.
+See the ["how-to" guide](syllabus/repo_how-to.md) (located in the syllabus folder) on how to get started with GitHub and repo management.
 
 You are required to maintain a **private GitHub repository** for this course:  
 
