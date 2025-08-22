@@ -7,9 +7,9 @@
 ---
 
 ## 🎯 Course Description
-This course introduces BA3 Korean Studies students to **Digital Humanities (DH)** methods, focusing on text-as-data approaches. Using **Orange Data Mining** and pre-prepared Korean corpora, students will learn how to clean, analyze, and interpret textual data.  
+This is the DH strand of the BA3 course Contemporary Korea and Digital Humanities. This course is meant to introduce studnets to digital humanities (DH) methods, focusing on text-as-data approaches. Using **Orange Data Mining** and pre-prepared Korean corpora, students will learn how to clean, analyze, and interpret textual data.  
 
-The DH strand complements the topical reading seminars by equipping students with methodological skills that may support their **undergraduate thesis research**.
+The DH strand complements the topical reading seminars by equipping students with methodological skills that may support their **undergraduate thesis research**. There are no programming requirements whatsoever in this course, although students will have the opportunity to explore ways to acquire such skills.
 
 ---
 
@@ -24,7 +24,7 @@ By the end of the DH module, students will be able to:
 
 ---
 
-## 📅 Weekly Schedule (DH Strand)
+## 📅 Weekly Schedule
 - **[Week 1 (Oct. 10): Introduction to DH, GitHub & Data Management](assignments/week01-deliverable.md)**  
 - **[Week 2 (Oct. 17): Text Preprocessing](assignments/week02-deliverable.md)**  
 - **[Week 3 (Oct. 24): Descriptive Patterns](assignments/week03-deliverable.md)**  
