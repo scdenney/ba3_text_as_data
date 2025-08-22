@@ -44,10 +44,9 @@ DH-TopicalReading-<Surname>/
 │   │   └── ...
 │   ├── week06/
 │   └── final-project/
-├── syllabus/
-│   └── syllabus.md
 └── README.md
 ```
+You can use the README to introduce yourself and what your repo will do for you.
 
 5. Each week’s deliverable (markdown file + screenshots) must be committed to the correct subfolder.  
 6. At the start of the course, submit the **URL of your repo** to the instructor.  
