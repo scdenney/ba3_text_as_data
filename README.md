@@ -47,7 +47,6 @@ ba3_text_as_data/
 │   └── repo_how-to.md # how to set up your GitHub repo
 ├── assignments/       # weekly assignment instructions
 ├── data/              # provided corpora
-├── tutorials/         # Orange Data Mining links and resources
 └── README.md          # this file
 </pre>
 
