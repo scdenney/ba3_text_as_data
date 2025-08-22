@@ -56,5 +56,4 @@ DH-Korean-Studies/
 ---
 
 ## 📜 License & Use
-This repository is for educational use in the BA3 Korean Studies program at Leiden University.  
-Students are encouraged to **fork** and **adapt** the repo for their own projects.  
+This repository is for educational use in the BA3 Korean Studies program at Leiden University.
