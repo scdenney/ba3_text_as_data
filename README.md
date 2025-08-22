@@ -34,6 +34,7 @@ By the end of the DH module, students will be able to:
 - Final Project: Mini Text-as-Data Analysis 
 
 See the [course syllabus](syllabus/syllabus.md) for a more detailed explanation of each week's objectives.  
+
 *Note: Course content subject to change.*
 
 ---
