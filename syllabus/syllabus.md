@@ -56,6 +56,25 @@ This organization mirrors best practices for **research data management** and is
 
 ---
 
+## Corpus Overview
+
+The primary dataset for this course is the **국사편찬위원회 (Guksa Pyeonchan Wiwonhoe, National Institute of Korean History, NIKH) history textbook corpus**. This collection brings together Korean history textbooks produced under successive national curricula, spanning from the late **조선 (Joseon)** and **대한제국 (Daehan Jeguk)** through the **일제강점기 (Ilje Gangjeomgi, Japanese colonial period)**, liberation, and the postwar **교육과정 (gyoyuk gwajeong, national curricula)** up to the present. These textbooks, published and authorized by the state, offer an authoritative view of how the Korean nation, state, and people have been represented by state-sanctioned education across different political eras.  
+
+You may peruse an online-navigable version of the history textbooks through the National Institute of Korean History’s official website: [contents.history.go.kr](https://contents.history.go.kr/front/ta/main.do)  
+
+Because textbooks are central to the formation of collective memory and national identity, this corpus is especially well suited for exploring questions of **modern Korean identity**: how ideas of **민족 (minjok, nation/people)**, **국민 (gukmin, citizens)**, **시민 (simin, civic belonging)**, and **통일 (tongil, unification)** have been framed, contested, and transmitted to generations of (South) Korean students. In this way, the corpus links directly to broader themes in modern political sociology in Korea, which you are also examining in the topical reading strand of this course.  
+
+For **supplementary purposes**, additional pre-prepared corpora are available:  
+- **개벽 (Kaebyŏk, 1920–1935):** An interwar magazine reflecting cultural, intellectual, and political debates in colonial Korea.  
+- **경제연구 (Kyŏngje Yŏngu, 1987–2017):** A North Korean economics journal, useful for examining how policy and ideology intertwine in the DPRK.  
+
+Other corpora may be introduced during the course to support student exploration.  
+
+👉 You will make use of these corpora not only for weekly exercises but also for your **final project** and, if relevant and of interest, for your **BA thesis research**. We will discuss how to design a mini text-as-data project throughout the course and especially in Week 6.  
+
+
+---
+
 ## Weekly Outline
 
 ### Week 1 (Oct. 10): Introduction to DH, GitHub & Data Management
