@@ -133,7 +133,7 @@ Other corpora may be introduced during the course to support student exploration
 ---
 
 ## Assessment
-The DH strand of the course is worth 25% 
+The DH strand of the course is worth 25% of the full course grade. That 25% is borken down in the DH strand as follows:
 - Weekly Deliverables & Attendance (6 × 5% = 30%)  
 - Final Project (70%)
 
