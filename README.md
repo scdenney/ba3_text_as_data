@@ -33,7 +33,7 @@ By the end of the DH module, students will be able to:
 - Week 4 (Nov. 7): Classification & Prediction
 - Week 5 (Nov. 14): Clustering & Similarity
 - Week 6 (Nov. 21): Topic Modeling & Wrap-Up
-- Final Project: Mini Text-as-Data Analysis 
+- Final Project: Text-as-Data Analysis 
 
 See the [course syllabus](syllabus/syllabus.md) for a more detailed explanation of each week's objectives.  
 
