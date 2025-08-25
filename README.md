@@ -1,7 +1,7 @@
 # Topical Reading: Digital Humanities  
 Course: BA3 Korean Studies, Leiden University  
 Instructor: Dr. Steven Denney  
-Time & Place: Fridays, 11:15–13:00, Lipsius 1.29  
+Time & Place: Fridays, 11:15–13:00, Huizinga 0.09  
 Duration: 6 seminars starting October 10 and ending November 21
 
 ---
@@ -10,6 +10,8 @@ Duration: 6 seminars starting October 10 and ending November 21
 This is the DH strand of the BA3 course Contemporary Korea and Digital Humanities. This course is meant to introduce students to digital humanities (DH) methods, focusing on text-as-data approaches. Using Orange Data Mining and pre-prepared Korean corpora, students will learn how to clean, analyze, and interpret textual data.  
 
 The DH strand complements the topical reading seminars by equipping students with methodological skills that may support their undergraduate thesis research. There are no programming requirements whatsoever in this course, although students will have the opportunity to explore ways to acquire such skills.
+
+See the course [syllabus](/syllabus/syllabus.md) for complete information.
 
 ---
 
@@ -31,7 +33,7 @@ By the end of the DH module, students will be able to:
 - Week 4 (Nov. 7): Classification & Prediction
 - Week 5 (Nov. 14): Clustering & Similarity
 - Week 6 (Nov. 21): Topic Modeling & Wrap-Up
-- Final Project: Mini Text-as-Data Analysis 
+- Final Project: Text-as-Data Analysis 
 
 See the [course syllabus](syllabus/syllabus.md) for a more detailed explanation of each week's objectives.  
 
@@ -45,7 +47,7 @@ ba3_text_as_data/
 ├── syllabus/          # syllabus
 │   └── syllabus.md
 │   └── repo_how-to.md # how to set up your GitHub repo
-├── lectures/          # slides and lecture materials
+├── lectures/          # slides and lecture materials uploaded after class
 ├── assignments/       # weekly assignment instructions
 ├── data/              # provided corpora
 └── README.md          # this file

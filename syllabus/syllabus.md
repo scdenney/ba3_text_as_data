@@ -1,7 +1,7 @@
 # Topical Reading: Digital Humanities  
 Course: BA3 Korean Studies, Leiden University  
 Instructor: Dr. Steven Denney  
-Time & Place: Fridays, 11:15–13:00, Lipsius 1.29  
+Time & Place: Fridays, 11:15–13:00, Huizinga 0.09  
 Duration: 6 seminars starting October 10 and ending November 21
 
 ---
@@ -65,8 +65,8 @@ You may peruse an online-navigable version of the history textbooks through the 
 Because textbooks are central to the formation of collective memory and national identity, this corpus is especially well suited for exploring questions of **modern Korean identity**: how ideas of **민족 (minjok, nation/people)**, **국민 (gukmin, citizens)**, **시민 (simin, civic belonging)**, and **통일 (tongil, unification)** have been framed, contested, and transmitted to generations of (South) Korean students. In this way, the corpus links directly to broader themes in modern political sociology in Korea, which you are also examining in the topical reading strand of this course.  
 
 For **supplementary purposes**, additional pre-prepared corpora are available:  
-- **개벽 (Kaebyŏk, 1920–1935):** An interwar magazine reflecting cultural, intellectual, and political debates in colonial Korea.  
-- **경제연구 (Kyŏngje Yŏngu, 1987–2017):** A North Korean economics journal, useful for examining how policy and ideology intertwine in the DPRK.  
+- **개벽 (Kaebyŏk, 1920–1935):** An interwar magazine reflecting cultural, intellectual, and political debates in colonial Korea. *Kaebyŏk* has been used extensively in scholarship on cultural nationalism and modern identity, including Michael Robinson’s *Cultural Nationalism in Colonial Korea, 1920–1925* (1988), Andre Schmid’s *Korea Between Empires, 1895–1919* (2002), and Henry Em’s “Minjok as a Modern and Democratic Construct: Sin Ch’aeho’s Historiography” (1999).  
+- **경제연구 (Kyŏngje Yŏngu, 1987–2017):** A North Korean economics journal, useful for examining how policy and ideology interact in the DPRK. Read more about this at [38 North](https://www.38north.org/2025/05/in-memoriam-kyongje-yongu/).  
 
 Other corpora may be introduced during the course to support student exploration.  
 
@@ -126,13 +126,14 @@ Other corpora may be introduced during the course to support student exploration
 ---
 
 ## Final Project (after Week 6: deadline TBD)
-- A **mini text-as-data analysis** project (≈3–4 pages). 
+- A **text-as-data analysis** project. 
 - Include: research question, corpus, workflow (screenshots), findings, and reflection on thesis relevance.
 - More information to be provided.
 
 ---
 
 ## Assessment
+The DH strand of the course is worth 25% of the full course grade. That 25% is broken down as follows:
 - Weekly Deliverables & Attendance (6 × 5% = 30%)  
 - Final Project (70%)
 
