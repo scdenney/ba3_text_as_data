@@ -45,7 +45,7 @@ ba3_text_as_data/
 ├── syllabus/          # syllabus
 │   └── syllabus.md
 │   └── repo_how-to.md # how to set up your GitHub repo
-├── lectures/          # slides and lecture materials
+├── lectures/          # slides and lecture materials uploaded after class
 ├── assignments/       # weekly assignment instructions
 ├── data/              # provided corpora
 └── README.md          # this file
