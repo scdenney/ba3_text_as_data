@@ -19,7 +19,7 @@ Students will learn how to prepare, analyze, and interpret text using **Orange D
 Each week lists required **Orange Data Mining Tutorials**.  
 - These tutorials are **required viewing before class**.  
 - They are short (≈5–10 minutes each) and introduce the widgets you will use hands-on.  
-- Watching them in advance will free up class time for applying methods to Korean corpora.
+- Watching them in advance will free up class time and have you better prepared for applying methods to Korean corpora.
 
 👉 Tutorials (to watch before class) are available here: [Orange Data Mining Tutorials (YouTube Playlist)](https://www.youtube.com/playlist?list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy)
 
@@ -133,10 +133,10 @@ Other corpora may be introduced during the course to support student exploration
 ---
 
 ## Assessment
-- Weekly Deliverables (6 × 5% = 30%)  
+- Weekly Deliverables & Attendance (6 × 5% = 30%)  
 - Final Project (70%)
 
 ---
 
 ## Attendance
-Full attendance is expected. Missing any sessions will put you behind. If you cannot attend all sessions, speak with the instructor.
+Full attendance is expected. Missing any sessions will put you behind. If you cannot attend all sessions, speak with the instructor in advance.
