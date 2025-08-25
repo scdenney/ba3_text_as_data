@@ -126,7 +126,7 @@ Other corpora may be introduced during the course to support student exploration
 ---
 
 ## Final Project (after Week 6: deadline TBD)
-- A **mini text-as-data analysis** project (≈3–4 pages). 
+- A **text-as-data analysis** project. 
 - Include: research question, corpus, workflow (screenshots), findings, and reflection on thesis relevance.
 - More information to be provided.
 
