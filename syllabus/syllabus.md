@@ -68,10 +68,7 @@ For **supplementary purposes**, additional pre-prepared corpora are available:
 - **개벽 (Kaebyŏk, 1920–1935):** An interwar magazine reflecting cultural, intellectual, and political debates in colonial Korea. *Kaebyŏk* has been used extensively in scholarship on cultural nationalism and modern identity, including Michael Robinson’s *Cultural Nationalism in Colonial Korea, 1920–1925* (1988), Andre Schmid’s *Korea Between Empires, 1895–1919* (2002), and Henry Em’s “Minjok as a Modern and Democratic Construct: Sin Ch’aeho’s Historiography” (1999).  
 - **경제연구 (Kyŏngje Yŏngu, 1987–2017):** A North Korean economics journal, useful for examining how policy and ideology interact in the DPRK. Read more about this at [38 North](https://www.38north.org/2025/05/in-memoriam-kyongje-yongu/).  
 
-Other corpora may be introduced during the course to support student exploration.  
-
-👉 You will make use of these corpora not only for weekly exercises but also for your **final project** and, if relevant and of interest, for your **BA thesis research**. We will discuss how to design a mini text-as-data project throughout the course and especially in Week 6.  
-
+👉 Other corpora will be introduced during the course to support student exploration. For the final project, studnets will be required to use one of the pre-pepared corpura, except the NIKH practice corpora, or to have approved the use of one of their own. We will discuss how to design a mini text-as-data project throughout the course and especially in Week 6.
 
 ---
 
