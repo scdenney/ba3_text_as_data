@@ -11,7 +11,7 @@ This is the DH strand of the BA3 course Contemporary Korea and Digital Humanitie
 
 The DH strand complements the topical reading seminars by equipping students with methodological skills that may support their undergraduate thesis research. There are no programming requirements whatsoever in this course, although students will have the opportunity to explore ways to acquire such skills.
 
-This page provides a short overview of the course. See the [syllabus](/syllabus/syllabus.md) for complete information.
+This page provides a short overview of the course. See the [syllabus](/syllabus/syllabus.md) for complete information on lessons and other important information.
 
 ---
 
