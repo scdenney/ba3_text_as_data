@@ -44,12 +44,12 @@ See the [course syllabus](syllabus/syllabus.md) for a more detailed explanation 
 <h2>📂 Repository Structure</h2>
 <pre>
 ba3_text_as_data/
-├── syllabus/          # syllabus
-│   └── syllabus.md
+├── syllabus/          
+│   └── syllabus.md    # the course syllabus
 │   └── repo_how-to.md # how to set up your GitHub repo
-├── lectures/          # slides and lecture materials uploaded after class
+├── lectures/          # slides and lecture materials (uploaded after lessons)
 ├── assignments/       # weekly assignment instructions
-├── data/              # provided corpora
+├── data/              # provided corpora and supplementary information
 └── README.md          # this file
 </pre>
 
