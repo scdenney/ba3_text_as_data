@@ -38,7 +38,7 @@ You are required to maintain a **private GitHub repository** for this course:
 📂 Student Repository Structure
 <pre>
 DH-TopicalReading-<Surname>/
-  ├── assignments/    # Where you commit your assignments
+  ├── assignments/    # where you commit your assignments
 │   ├── week01/
 │   │   ├── week01-deliverable.md
 │   │   └── screenshots/
@@ -46,7 +46,7 @@ DH-TopicalReading-<Surname>/
 │   │   └── ...
 │   ├── week06/
 │   └── final-project/
-└── README.md          # Use the README to introduce yourself and what your repo will do for you.
+└── README.md          # use the README to introduce yourself and what your repo will do for you
 </pre>
 
 5. Each week’s deliverable (markdown file + screenshots) must be committed to the correct subfolder.  
