@@ -50,7 +50,7 @@ DH-TopicalReading-<Surname>/
 </pre>
 
 5. Each week’s deliverable (markdown file + screenshots) must be committed to the correct subfolder.  
-6. At the start of the course, submit the **URL of your repo** to the instructor.  
+6. At the start of the course, submit the **URL of your repo** to the instructor to this [Google Sheet] (https://docs.google.com/spreadsheets/d/1iVdwLTfmVkMn2cQGXPxCC4YIxADawSKAWltZIxD5WMs/edit?usp=sharing) (click to open).
 
 This organization mirrors best practices for **research data management** and is part of the course’s learning objectives.  
 
