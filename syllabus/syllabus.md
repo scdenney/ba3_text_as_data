@@ -24,6 +24,21 @@ Each week lists required **Orange Data Mining Tutorials**.
 👉 Tutorials (to watch before class) are available here: [Orange Data Mining Tutorials (YouTube Playlist)](https://www.youtube.com/playlist?list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy)
 
 ---
+## Assignments
+
+In addition to attending weekly sessions, students must complete **weekly assignments (“deliverables”)**. These are designed to reinforce the skills introduced in each tutorial and class exercise.
+
+* **Format:** Each deliverable consists of (i) one or more screenshots of your Orange workflow/output and (ii) a short written reflection (≈1 paragraph).
+* **Submission:** Deliverables must be committed to your GitHub repo in the appropriate weekly folder (e.g., `week01/`, `week02/`, etc.).
+* **Examples:**
+
+  * *Week 1:* Set up GitHub repo + README reflection on DH and thesis research.
+  * *Week 2:* Screenshot and reflection on text preprocessing (raw vs. cleaned text).
+  * Later weeks follow the same format: applying tutorials, documenting results, and reflecting on significance.
+
+👉 Weekly deliverables, together with attendance, account for **30% of your DH strand grade**, as outlined in the Assessment section below.
+
+---
 
 ## GitHub Repository Requirement  
 See the ["how-to" guide](repo_how-to.md) (located in the syllabus folder) on how to get started with GitHub and repo management.
