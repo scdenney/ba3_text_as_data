@@ -39,7 +39,8 @@ In addition to attending weekly sessions, you are required to complete **weekly 
 - **Grading:**  
   - `2` = fully complete and accurate  
   - `1` = attempted but not fully complete/accurate  
-  - `0` = incomplete, late, or not attempted
+  - `0` = incomplete, late, or not attempted  
+- **Note:** You do *not* need to upload assignments to Brightspace. The instructor will review your GitHub repo and record grades.
 
 ### Examples
 - *Week 1:* Set up your GitHub repo + README reflection on DH and thesis research  
