@@ -26,7 +26,7 @@ Each week lists required **Orange Data Mining Tutorials**.
 ---
 ## Assignments
 
-In addition to attending weekly sessions, you are required to complete **weekly assignments (“deliverables”)**. These tasks reinforce the skills introduced in tutorials and class exercises.
+In addition to attending weekly sessions, you are required to complete **weekly assignments (“deliverables”)**. These tasks reinforce the skills introduced in tutorials and class exercises. Assignments can be found in the folder marked with the same name ([Assignments](https://github.com/scdenney/ba3_text_as_data/tree/main/assignments).
 
 ### Format
 - Each deliverable consists of:  
