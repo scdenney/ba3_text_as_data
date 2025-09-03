@@ -72,7 +72,7 @@ For **supplementary purposes**, additional pre-prepared corpora are available:
 
 ---
 
-## Weekly Outline
+## Weekly Outline (subject to change)
 
 ### Week 1 (Oct. 10): Introduction to DH, GitHub & Data Management
 - **Lecture:** What is DH? Why text-as-data matters for Korean Studies. FAIR data principles.  
@@ -122,10 +122,20 @@ For **supplementary purposes**, additional pre-prepared corpora are available:
 
 ---
 
-## Final Project (after Week 6: deadline TBD)
-- A **text-as-data analysis** project. 
-- Include: research question, corpus, workflow (screenshots), findings, and reflection on thesis relevance.
-- More information to be provided.
+### Final Project (Nov. 28)
+
+The final project will take the form of an **in-person, four-hour “hackathon”** held in the DH Lab. Working in small groups, students will complete a text-as-data analysis project that draws directly on the skills developed in this six-week strand of the course.
+
+Each group will:
+
+* Select from a pre-prepared corpus (or set of corpora). It will be possible to use your own.
+* Formulate a research question.
+* Design and carry out a workflow in Orange Data Mining.
+* Generate and interpret findings.
+* Write up results and a brief reflection on the process.
+
+This is a **timed, in-class assignment** (not a take-home project). Further details will be provided in advance.
+
 
 ---
 
