@@ -26,17 +26,27 @@ Each week lists required **Orange Data Mining Tutorials**.
 ---
 ## Assignments
 
-In addition to attending weekly sessions, students must complete **weekly assignments (“deliverables”)**. These are designed to reinforce the skills introduced in each tutorial and class exercise.
+In addition to attending weekly sessions, you are required to complete **weekly assignments (“deliverables”)**. These tasks reinforce the skills introduced in tutorials and class exercises.
 
-* **Format:** Each deliverable consists of (i) one or more screenshots of your Orange workflow/output and (ii) a short written reflection (≈1 paragraph).
-* **Submission:** Deliverables must be committed to your GitHub repo in the appropriate weekly folder (e.g., `week01/`, `week02/`, etc.).
-* **Examples:**
+### Format
+- Each deliverable consists of:  
+  1. One or more screenshots of your Orange workflow/output  
+  2. A short written reflection (≈1 paragraph)
 
-  * *Week 1:* Set up GitHub repo + README reflection on DH and thesis research.
-  * *Week 2:* Screenshot and reflection on text preprocessing (raw vs. cleaned text).
-  * Later weeks follow the same format: applying tutorials, documenting results, and reflecting on significance.
+### Submission
+- Commit your deliverables to your GitHub repository in the appropriate weekly folder (e.g., `week01/`, `week02/`, etc.)  
+- **Deadline:** 17:00 on the Monday following class  
+- **Grading:**  
+  - `2` = fully complete and accurate  
+  - `1` = attempted but not fully complete/accurate  
+  - `0` = incomplete, late, or not attempted
 
-👉 Weekly deliverables, together with attendance, account for **30% of your DH strand grade**, as outlined in the Assessment section below.
+### Examples
+- *Week 1:* Set up your GitHub repo + README reflection on DH and thesis research  
+- *Week 2:* Screenshot and reflection on text preprocessing (raw vs. cleaned text)  
+- Later weeks: continue the same format — apply tutorials, document results, and reflect on significance
+
+👉 **Weekly deliverables, together with attendance, make up 30% of your DH strand grade** (see Assessment section).
 
 ---
 
