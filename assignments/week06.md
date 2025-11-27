@@ -66,5 +66,4 @@ Upload your Orange workflow: `week06.ows`
 ├── topic_1_ldavis.png
 ├── topic_2_ldavis.png
 ├── week06.ows
-└── README.md
-<pre>
+└── README.md <pre>
