@@ -13,7 +13,7 @@ Build a simple LDA model in Orange, explore topics with LDAvis, and interpret wh
 ## 🧩 Tasks
 
 ### 1. Build an LDA Model in Orange
-- Load `nikh__sentences.csv` (in `/data/nikh`)  
+- Load `nikh_corpus.csv` (in `/data/nikh`)  
 - Preprocess (tokenize, stopwords; noun-only script optional)  
 - Add **Topic Modeling**  
 - Choose a reasonable number of topics (4-6 should be fine)  
