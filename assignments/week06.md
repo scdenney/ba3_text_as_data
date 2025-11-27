@@ -19,7 +19,7 @@ Build a simple LDA model in Orange, explore topics with LDAvis, and interpret wh
 - Choose a reasonable number of topics (4-6 should be fine)  
 - Connect to **Data Table** to view topic–document probabilities  
 
-**Export:** `week06_flow.png`
+**Export:** `week06_flow.svg`
 
 ---
 
