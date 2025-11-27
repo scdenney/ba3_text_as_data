@@ -61,7 +61,7 @@ Upload your Orange workflow: `week06.ows`
 ## 📦 Deliverables (folder structure)
 
 /week06/
-├── week06_flow.png
+├── week06_flow.svg
 ├── topic_1_ldavis.png
 ├── topic_2_ldavis.png
 ├── week06.ows
