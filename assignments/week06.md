@@ -40,7 +40,7 @@ Build a simple LDA model in Orange, explore topics with LDAvis, and interpret wh
   - Any topics with probability 0? 
   - Briefly interpret what this suggests  
 
-Write 2–4 sentences per document in your `README.md` for this week.
+Write 2–4 sentences per document in your `README.md` for this week (in addition the the short relections below).
 
 ---
 
