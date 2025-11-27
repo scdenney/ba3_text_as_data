@@ -1,7 +1,7 @@
 # Week 6 Deliverable: Topic Modeling & LDA
 
 **Course:** Topical Reading: Digital Humanities (BA3 Korean Studies)  
-**Due:** Thursday, November 28, 2025 by 17:00
+**Due:** Friday, November 28, 2025 by 17:00
 
 ---
 
