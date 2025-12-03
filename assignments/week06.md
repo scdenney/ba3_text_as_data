@@ -1,7 +1,7 @@
 # Week 6 Deliverable: Topic Modeling & LDA
 
 **Course:** Topical Reading: Digital Humanities (BA3 Korean Studies)  
-**Due:** Thursday, November 28, 2025 by 17:00
+**Due:** Friday, November 28, 2025 by 17:00
 
 ---
 
@@ -13,13 +13,13 @@ Build a simple LDA model in Orange, explore topics with LDAvis, and interpret wh
 ## 🧩 Tasks
 
 ### 1. Build an LDA Model in Orange
-- Load `nikh__sentences.csv` (in `/data/nikh`)  
+- Load `nikh_corpus.csv` (in `/data/nikh`)  
 - Preprocess (tokenize, stopwords; noun-only script optional)  
 - Add **Topic Modeling**  
 - Choose a reasonable number of topics (4-6 should be fine)  
 - Connect to **Data Table** to view topic–document probabilities  
 
-**Export:** `week06_flow.png`
+**Export:** `week06_flow.svg`
 
 ---
 
@@ -40,7 +40,7 @@ Build a simple LDA model in Orange, explore topics with LDAvis, and interpret wh
   - Any topics with probability 0? 
   - Briefly interpret what this suggests  
 
-Write 2–4 sentences per document in your `README.md` for this week.
+Write 2–4 sentences per document in your `README.md` for this week (in addition the the short relections below).
 
 ---
 
@@ -61,10 +61,9 @@ Upload your Orange workflow: `week06.ows`
 ## 📦 Deliverables (folder structure)
 
 /week06/
-├── week06_flow.png
+<pre>
+├── week06_flow.svg
 ├── topic_1_ldavis.png
 ├── topic_2_ldavis.png
 ├── week06.ows
-└── README.md
-
-
+└── README.md <pre>
