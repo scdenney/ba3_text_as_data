@@ -10,12 +10,12 @@ title: Week 6 Assignment
 
 ---
 
-## 🎯 Objective
+## Objective
 Build a simple LDA model in Orange, explore topics with LDAvis, and interpret what topic modeling reveals about your corpus.
 
 ---
 
-## 🧩 Tasks
+## Tasks
 
 ### 1. Build an LDA Model in Orange
 - Load `nikh_corpus.csv` (in `/data/nikh`)  
@@ -63,7 +63,7 @@ Upload your Orange workflow: `week06.ows`
 
 ---
 
-## 📦 Deliverables (folder structure)
+## Deliverables (folder structure)
 
 /week06/
 <pre>
