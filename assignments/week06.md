@@ -1,3 +1,8 @@
+---
+layout: default
+title: Week 6 Assignment
+---
+
 # Week 6 Deliverable: Topic Modeling & LDA
 
 **Course:** Topical Reading: Digital Humanities (BA3 Korean Studies)  

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Week 4 Assignment
+---
+
 # Week 4 Deliverable: Sentiment Analysis of Textbook Sentences
 
 **Course:** Topical Reading: Digital Humanities (BA3 Korean Studies)  

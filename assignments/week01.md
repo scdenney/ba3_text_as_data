@@ -1,3 +1,8 @@
+---
+layout: default
+title: Week 1 Assignment
+---
+
 # Week 1 Deliverable: Introduction to DH, GitHub & Data Management  
 **Course:** Topical Reading: Digital Humanities (BA3 Korean Studies)  
 **Date:** October 10  

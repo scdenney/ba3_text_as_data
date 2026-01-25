@@ -1,3 +1,8 @@
+---
+layout: default
+title: Week 2 Assignment
+---
+
 # Week 2 Deliverable: From Raw Text to Visual Patterns  
 **Course:** Topical Reading: Digital Humanities (BA3 Korean Studies)  
 **Date:** October 17  
@@ -52,5 +57,4 @@ For students in the **R Programming extension**, complete:
 - Module 2: *Visualizing Text*  
 
 R track assignments are due **before the next class**.  
-
 

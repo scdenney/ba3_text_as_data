@@ -1,3 +1,8 @@
+---
+layout: default
+title: Syllabus
+---
+
 # Topical Reading: Digital Humanities  
 Course: BA3 Korean Studies, Leiden University  
 Instructor: Dr. Steven Denney  
@@ -197,3 +202,8 @@ The DH strand of the course is worth 25% of the full course grade. That 25% is b
 
 ## Attendance
 Full attendance is expected. Missing any sessions will put you behind. If you cannot attend all sessions, speak with the instructor in advance.
+# front matter for Jekyll
+---
+layout: default
+title: Syllabus
+---

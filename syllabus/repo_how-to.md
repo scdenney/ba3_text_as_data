@@ -1,3 +1,8 @@
+---
+layout: default
+title: GitHub Repo Setup
+---
+
 # Student Guide: Setting Up Your GitHub Repo for This Course  
 
 For this class you’ll keep all your work in a **private GitHub repository**. Don’t worry if you’ve never used GitHub before — just follow the steps below carefully.  
