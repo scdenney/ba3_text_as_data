@@ -13,13 +13,13 @@ title: Week 3 Assignment
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Learn how text preprocessing and weighting schemes (raw counts vs. TF-IDF) affect document clustering and keyword extraction in Orange Data Mining (ODM). Also, explore the value of document clustering.
 
 ---
 
-## 🧩 Tasks
+## Tasks
 
 ### 1. **Read and Reflect on Text Preprocessing** (Python file) - Mac Users ONLY originally (note update for Windows users; workable file now exists)
    - Open and read through the annotated `.py` file on text preprocessing. It's in the `/data` folder. Note: there are files with and without annotations. You can use either, but it's cleaner to use the one without in ODM.
@@ -63,7 +63,7 @@ Learn how text preprocessing and weighting schemes (raw counts vs. TF-IDF) affec
    - Show your flow! Upload it, please.
 ---
 
-## 📦 Deliverables
+## Deliverables
 
 Place the following files in your GitHub repo folder for week03 assignment:
 
@@ -84,7 +84,7 @@ Place the following files in your GitHub repo folder for week03 assignment:
 
 ---
 
-## 💡 Optional (R Track)
+## Optional (R Track)
 
 For students in the **R Programming extension**, complete:
 
