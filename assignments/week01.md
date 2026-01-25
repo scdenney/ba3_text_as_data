@@ -10,7 +10,7 @@ title: Week 1 Assignment
 
 ---
 
-## 🎯 Objective  
+## Objective  
 There are two main goals for this week:
 
 1. **Set up your GitHub repository** for the course and reflect on how *Digital Humanities (DH)* might connect to your thesis research in Korean Studies.  
@@ -19,7 +19,7 @@ There are two main goals for this week:
 
 ---
 
-## 🛠 Instructions  
+## Instructions  
 
 1. Create a GitHub account (if you don’t already have one).  
 2. Create a **new repository** for this course, following the instructions [outlined in the syllabus](https://github.com/scdenney/ba3_text_as_data/blob/main/syllabus/syllabus.md#github-repository-requirement).  
@@ -42,7 +42,7 @@ There are two main goals for this week:
 
 ---
 
-## 📦 Deliverable  
+## Deliverable  
 
 - A **`README.md`** file in your repository containing:  
   - A short overview of what your repository is for.  
@@ -61,7 +61,7 @@ There are two main goals for this week:
    
 ---
 
-## 🧠 Optional Programming Lessons: Swirl R Tutorials  
+## Optional Programming Lessons: Swirl R Tutorials  
 *Optional but incentivized; see notes on extra credit and penalties in the Syllabus.*
 
 **What:** Complete Swirl interactive R lessons inside RStudio.  
@@ -84,7 +84,7 @@ There are two main goals for this week:
 
 ---
 
-## 📤 Submission  
+## Submission  
 
 - Push all files to your GitHub repository.  
 - Verify that your `.md` files and screenshots are visible online.  
