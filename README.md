@@ -42,9 +42,23 @@ By the end of the DH module, students will be able to:
 ## Tools
 - **[Orange Data Mining](https://orangedatamining.com/)** (main application)  
 - **GitHub** (data management & transparency)  
-- Provided **Korean corpora** (in `/data`)  
+- Provided **Korean corpora** (in `/data`)
 
 ---
 
-## 📜 License & Use
+## License & Use
 This repository is for educational use in the KoreaStudies program at Leiden University.
+
+---
+
+<h2>📂 Repository Structure</h2>
+<pre>
+ba3_text_as_data/
+├── syllabus/          
+│   └── syllabus.md    # the course syllabus
+│   └── repo_how-to.md # how to set up your GitHub repo
+├── lectures/          # slides and lecture materials (uploaded after lessons)
+├── assignments/       # weekly assignment instructions
+├── data/              # provided corpora and supplementary information
+└── README.md          # this file
+</pre>
