@@ -53,5 +53,5 @@ By the end of the DH module, students will be able to:
 
 ---
 
-## 📜 License & Use
+## License & Use
 This repository is for educational use in the KoreaStudies program at Leiden University.
