@@ -1,3 +1,8 @@
+---
+layout: default
+title: Markdown How-To
+---
+
 ## Creating and Saving Markdown (.md) Files
 
 Markdown (`.md`) is a lightweight markup language for structuring and formatting plain text. It allows users to create styled documents—such as headings, lists, links, and tables—using simple, human-readable syntax. Markdown files remain compatible with any text editor but can also be rendered into formatted documents (e.g., HTML, PDF) by programs that support Markdown syntax.

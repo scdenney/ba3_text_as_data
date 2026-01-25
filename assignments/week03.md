@@ -1,3 +1,8 @@
+---
+layout: default
+title: Week 3 Assignment
+---
+
 # Week 3 Deliverable: Clustering Documents and Understanding Text Weights
 
 **Course:** Topical Reading: Digital Humanities (BA3 Korean Studies)  

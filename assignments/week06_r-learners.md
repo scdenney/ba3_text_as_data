@@ -1,3 +1,8 @@
+---
+layout: default
+title: Week 6 Assignment (R Track)
+---
+
 # 📘 Optional Add-On (R Programming Track): Full LDA Assignment  
 ## (Top Terms • Topic–Document Distribution • Word Probabilities)
 

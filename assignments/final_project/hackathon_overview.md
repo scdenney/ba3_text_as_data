@@ -1,3 +1,8 @@
+---
+layout: default
+title: Final Project Overview
+---
+
 # Final Project Groups & Assignment Overview
 
 ## 📋 Group Assignments
