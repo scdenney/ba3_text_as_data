@@ -10,12 +10,12 @@ title: Week 2 Assignment
 
 ---
 
-## 🎯 Objective  
+## Objective  
 Recreate the in-class **DEMO (Oct 17)** workflow to understand how preprocessing affects text representation and visualization in **Orange Data Mining (ODM)**.  
 
 ---
 
-## 🧩 Tasks  
+## Tasks  
 
 1. **Replicate the DEMO workflow**  
    - Import the provided `.csv` corpus.  
@@ -35,7 +35,7 @@ Recreate the in-class **DEMO (Oct 17)** workflow to understand how preprocessing
 
 ---
 
-## 📦 Deliverables  
+## Deliverables  
 Place the following files in your GitHub repo folder for week02 assignment:  
 
 **Folder structure:**  
@@ -50,7 +50,7 @@ Place the following files in your GitHub repo folder for week02 assignment:
 
 ---
 
-## 💡 Optional (R Track)  
+## Optional (R Track)  
 For students in the **R Programming extension**, complete:  
 **DataCamp – Introduction to Text Analysis in R**  
 - Module 1: *Wrangling Text*  
