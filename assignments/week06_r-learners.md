@@ -3,7 +3,7 @@ layout: default
 title: Week 6 Assignment (R Track)
 ---
 
-# 📘 Optional Add-On (R Programming Track): Full LDA Assignment  
+# Optional Add-On (R Programming Track): Full LDA Assignment  
 ## (Top Terms • Topic–Document Distribution • Word Probabilities)
 
 This task mirrors the ODM LDA exercise but uses R to extract full statistical results.  
@@ -31,7 +31,7 @@ Pick one model to use for extraction (usually the best by coherence).
 
 ---
 
-## 📊 2. Compute coherence scores for choosing k
+## 2. Compute coherence scores for choosing k
 
 Use the `ldatuning` package:
 
@@ -52,7 +52,7 @@ Export this plot as `coherence_plot.png`.
 
 ---
 
-## 📘 3. Extract top terms per topic
+## 3. Extract top terms per topic
 
     terms(lda_k6, 15)    # or whichever model you selected
 
@@ -60,7 +60,7 @@ Save the output as `lda_r_top_terms.txt`.
 
 ---
 
-## 📊 4. Extract the topic–document distribution (θ)
+## 4. Extract the topic–document distribution (θ)
 
     theta <- posterior(lda_k6)$topics
     head(theta)
@@ -69,7 +69,7 @@ Save the output as `lda_r_top_terms.txt`.
 
 ---
 
-## 🔍 5. Extract the topic–word probabilities (φ)
+## 5. Extract the topic–word probabilities (φ)
 
     phi <- posterior(lda_k6)$terms
     head(phi)
@@ -78,7 +78,7 @@ Save the output as `lda_r_top_terms.txt`.
 
 ---
 
-## 📘 6. Visualize the “Two Pillars of LDA”
+## 6. Visualize the “Two Pillars of LDA”
 
 Produce:
 - a plot of θ for one document (`theta_example.png`)
@@ -88,7 +88,7 @@ These correspond to the Two Pillars slide.
 
 ---
 
-## 📝 7. Reflection (README.md)
+## 7. Reflection (README.md)
 
 Write 4–6 sentences:
 - Which k values you tried  
@@ -99,7 +99,7 @@ Write 4–6 sentences:
 
 ---
 
-## 📤 Deliverables
+## Deliverables
 
 Place into `/week06/r_track/`:
 
@@ -115,7 +115,7 @@ README.md
 
 ---
 
-## 📝 Notes
+## Notes
 
 - θ = document–topic mixture  
 - φ = topic–word probabilities (true p(w | k))  
