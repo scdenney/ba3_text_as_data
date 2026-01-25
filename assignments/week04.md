@@ -11,12 +11,12 @@ title: Week 4 Assignment
 
 ---
 
-## 🎯 Objective
+## Objective
 Reproduce the in-class **sentiment analysis workflow** in Orange Data Mining (ODM) using a keyword **other than 일본 (Japan)** and present clear, concise results.
 
 ---
 
-## 🧩 Tasks
+## Tasks
 
 ### 1. Choose a Keyword
 Pick one word or phrase relevant to Korean history (for example: 미국, 근대화, 독립, 민족, 여성, 평화).  
@@ -49,7 +49,7 @@ Write up everything in a **brief report** (a few hundred words total will suffic
 
 ---
 
-## 📦 Deliverables
+## Deliverables
 
 Submit **two files only**:
 
@@ -64,7 +64,7 @@ A short explanation and a handful of example sentences — that’s all that’s
 
 ---
 
-## 💬 Optional R-Programming Track
+## Optional R-Programming Track
 
 Students who have been completing the **optional R-programming exercises** may choose to do this assignment entirely in **R** rather than in **Orange Data Mining**.  
 The same analytical logic applies: select a keyword, perform exploratory analysis, compute sentiment, normalize, visualize, and briefly interpret.  
