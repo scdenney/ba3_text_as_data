@@ -16,7 +16,7 @@ You will generate:
 
 ---
 
-## 🔧 1. Fit LDA models in R
+## 1. Fit LDA models in R
 
 Use the same `nikh__sentences.csv` file as in ODM.  
 After preprocessing and creating a DTM, run LDA for at least three values of k:

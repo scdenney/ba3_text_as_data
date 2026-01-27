@@ -5,7 +5,7 @@ title: Final Project Overview
 
 # Final Project Groups & Assignment Overview
 
-## 📋 Group Assignments
+## Group Assignments
 
 | Group | Members |
 |-------|---------|
@@ -19,7 +19,7 @@ title: Final Project Overview
 
 ---
 
-# 🧪 Final Project: In-Class Text-as-Data Hackathon  
+# Final Project: In-Class Text-as-Data Hackathon  
 **Date & Time:** December 5, 10:00am - 2:00pm
 **Duration:** 4 hours (in-person, in the DH Lab)
 
@@ -29,7 +29,7 @@ The emphasis is on **the process**, not necessarily the findings. A careful, wel
 
 ---
 
-## 📚 Available Corpora  
+## Available Corpora  
 You will choose from one of **five (5)** pre-prepared corpora.  
 
 For each corpus, you will receive:
@@ -43,7 +43,7 @@ As noted, you may also use **your own corpus**, but they be must approved prior 
 
 ---
 
-# 🧭 What Your Group Must Do
+# What Your Group Must Do
 
 ## 1. Select a corpus  
 Pick one corpus.
@@ -105,7 +105,7 @@ A concise, structured manuscript that includes the following elements:
 
 ---
 
-# 📦 Final Deliverables 
+# Final Deliverables 
 
 One person submits to the instructor via email (s.c.denney@hum.leidenuniv.nl), with all other group members CC'd. You must use your official Leiden University email account.
 
@@ -118,7 +118,7 @@ Your group will submit **all** of the following as a .zip file:
 
 ---
 
-# ✔️ Assessment Criteria (Scores 0–10)
+# Assessment Criteria (Scores 0-10)
 
 Your final project grade is based on **four weighted criteria**, each graded **0–10**.  
 The **final grade** is the **weighted average** (rounded to one decimal) of the four criterion below.

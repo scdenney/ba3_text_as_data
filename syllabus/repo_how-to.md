@@ -133,7 +133,7 @@ If your computer folder is clean, your online repo will be clean too.
 
 ---
 
-## ✅ Quick Checklist  
+## Quick Checklist  
 - [ ] Made a GitHub account  
 - [ ] Created a **private** repo named `DH-TopicalReading-YourSurname`  
 - [ ] Added **scdenney** as collaborator  

@@ -51,7 +51,7 @@ This repository is for educational use in the KoreaStudies program at Leiden Uni
 
 ---
 
-<h2>📂 Repository Structure</h2>
+<h2>Repository Structure</h2>
 <pre>
 ba3_text_as_data/
 ├── syllabus/          
